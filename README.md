@@ -1,1 +1,1 @@
-# solace-operator-poc
+# solace-cloud-terraform-module
